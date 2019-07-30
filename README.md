@@ -7,7 +7,7 @@ En Hurón encontrarás herramientas fundamentales como Maltego o Recon-NG listas
 # Descarga
 Solo nos resta animarte a que descargues nuestra nueva OVA, y disfrutes usándola tanto como nosotros hemos disfrutado creándola.</br>
 <strong>MEGA:</strong> https://mega.nz/#F!mGQhAQJJ!oiE34IVpHWr6f4xYXrcQaw </br>
-GOOGLE DRIVE: Xxx
+<!--<strong>GOOGLE DRIVE:</strong> Xxx-->
 
 Para cualquier duda, consulta, reporte... por favor, escríbenos a huron_distro@protonmail.com
 
