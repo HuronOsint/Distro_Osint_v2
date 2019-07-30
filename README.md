@@ -34,3 +34,7 @@ Para cualquier duda, consulta, reporte... por favor, escríbenos a huron_distro@
 - recon-ng
 - spiderfoot
 - sublist3r
+- theHarvester
+- tinfoleak
+- trape
+- pila ELK
