@@ -13,29 +13,29 @@ Para cualquier duda, consulta, reporte... por favor, escríbenos a huron_distro@
 
 # Listado de herramientas locales instaladas
 - aquatone
-- belati
-- creepy
-- datasploit
-- dmitry
-- dnsscan
-- exiftool
-- fierce
-- httrack
-- infoga
-- iptodomain
-- knock
-- maltego
-- mat (Metadata Anonymisation Toolkit)
-- mediainfo
-- metagoofil
-- operative framework
-- osint framework
-- osint-spy
-- osrframework
-- recon-ng
-- spiderfoot
-- sublist3r
-- theHarvester
-- tinfoleak
-- trape
+- <a href="https://huronosint.wordpress.com/2019/07/30/belati/" target="_blank">belati</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/creepy/" target="_blank">creepy</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/datasploit/" target="_blank">datasploit</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/dmitry/" target="_blank">dmitry</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/dnsscan/" target="_blank">dnsscan</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/exiftool/" target="_blank">exiftool</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/fierce/" target="_blank">fierce</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/httrack/" target="_blank">httrack</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/infoga/" target="_blank">infoga</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/iptodomain/" target="_blank">iptodomain</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/knock/" target="_blank">knock</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/maltego/" target="_blank">maltego</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/mat/" target="_blank">mat (Metadata Anonymisation Toolkit)</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/mediainfo/" target="_blank">mediainfo</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/metagoofil/" target="_blank">metagoofil</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/operative-framework/" target="_blank">operative framework</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/osint-framework/" target="_blank">osint framework</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/osint-spy/" target="_blank">osint-spy</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/osrframework/" target="_blank">osrframework</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/recon-ng/" target="_blank">recon-ng</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/spiderfoot/" target="_blank">spiderfoot</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/sublist3r/" target="_blank">sublist3r</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/theharvester/" target="_blank">theHarvester</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/tinfoleak/" target="_blank">tinfoleak</a>
+- <a href="https://huronosint.wordpress.com/2019/07/30/trape/" target="_blank">trape</a>
 - pila ELK
